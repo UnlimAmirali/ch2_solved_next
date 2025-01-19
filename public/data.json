@@ -1,0 +1,34 @@
+{
+    "personalInfo": [
+      {
+        "userId": 1,
+        "firstName": "Ali",
+        "lastName": "Ahmadi",
+        "age": 30,
+        "gender": "Male",
+        "mobile": "09123456789"
+      },
+      {
+        "userId": 2,
+        "firstName": "Sara",
+        "lastName": "Moradi",
+        "age": 25,
+        "gender": "Female",
+        "mobile": "09198765432"
+      }
+    ],
+    "insuranceInfo": [
+      {
+        "userId": 1,
+        "car": "Pride",
+        "policyNumber": "ABC12345",
+        "insuranceValue": 2000000
+      },
+      {
+        "userId": 2,
+        "car": "Peugeot 206",
+        "policyNumber": "XYZ98765",
+        "insuranceValue": 3000000
+      }
+    ]
+  }
