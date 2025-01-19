@@ -16,13 +16,13 @@ export default function InsuranceInfo() {
   }, []);
 
   const sortData = () => {
-    const sorted = [...insuranceInfo].sort((a, b) => {
-      return sortOrder === 'asc'
-        ? a.insuranceValue - b.insuranceValue
-        : b.insuranceValue - a.insuranceValue;
-    });
-    setInsuranceInfo(sorted);
-    setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
+    // const sorted = [...insuranceInfo].sort((a, b) => {
+    //   return sortOrder === 'asc'
+    //     ? a.insuranceValue - b.insuranceValue
+    //     : b.insuranceValue - a.insuranceValue;
+    // });
+    // setInsuranceInfo(sorted);
+    // setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
   };
 
   return (

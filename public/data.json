@@ -15,6 +15,14 @@
         "age": 25,
         "gender": "Female",
         "mobile": "09198765432"
+      },
+      {
+        "userId": 3,
+        "firstName": "Hasan",
+        "lastName": "Naseri",
+        "age": 25,
+        "gender": "Male",
+        "mobile": "09124578050"
       }
     ],
     "insuranceInfo": [
@@ -29,6 +37,12 @@
         "car": "Peugeot 206",
         "policyNumber": "XYZ98765",
         "insuranceValue": 3000000
+      },
+      {
+        "userId": 3,
+        "car": "Peugeot 405",
+        "policyNumber": "KASDLAS125",
+        "insuranceValue": 4000000
       }
     ]
   }

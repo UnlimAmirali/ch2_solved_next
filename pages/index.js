@@ -10,7 +10,7 @@ export default function Home() {
             <Link href="/personal">Personal Info</Link>
           </li>
           <li>
-            <Link href="/insurance">Third Party Insurance</Link>
+            <Link href="/Insurance">Third Party Insurance</Link>
           </li>
         </ul>
       </nav>
